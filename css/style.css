@@ -20,6 +20,9 @@ h1 {
   font-size: 5em;
   padding-top: 25px;
 }
+h1:first-letter {
+  letter-spacing: -10px;
+}
 
 header {
   display: flex;
